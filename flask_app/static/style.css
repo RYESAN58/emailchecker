@@ -1,0 +1,12 @@
+#container{
+    background-color: rgb(126, 93, 93);
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+}
+#btn{
+    background-color: greenyellow;
+    color: black;
+}
